@@ -1,4 +1,4 @@
-[![MasterHead](https://images.inc.com/uploaded_files/image/1920x1080/software-computer-code-1940x900_35196.jpg)](https://way2deb007.io)
+[![MasterHead]([https://images.inc.com/uploaded_files/image/1920x1080/software-computer-code-1940x900_35196.jpg](https://media.licdn.com/dms/image/D4E16AQF5koWSMuL7ew/profile-displaybackgroundimage-shrink_350_1400/0/1708520547352?e=1714003200&v=beta&t=kBiJFJV_SDYIqUkURuB0XtkZ5EtvxEMj0MEcCltYxBA))](https://way2deb007.io)
 <h1 align="center">Hi 👋, I'm Debdulal Das</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://potomac.edu/wp-content/uploads/2020/12/benefits-of-coding-e1606911064541.jpg">
